@@ -15,5 +15,5 @@
 <a href="https://github.com/noe999x/fbs/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/bagasekaapr)
-[![](https://img.shields.io/badge/WhatsApp-blue?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6289614402699?text=asalamualaikum+bang)
-[![](https://img.shields.io/badge/Instagram-Blue?logo=Instagram&logoColor=blue&labelColor=white)](https://www.instagram.com/bagasekaapr)<br><br>
+[![](https://img.shields.io/badge/WhatsApp-green?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6289614402699?text=asalamualaikum+bang)
+[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=blue&labelColor=white)](https://www.instagram.com/bagasekaapr)<br><br>
