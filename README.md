@@ -15,6 +15,7 @@
 <a href="https://github.com/noe999x/fbs/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/bagasekaapr)
-[![](https://img.shields.io/badge/WhatsApp-green?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6289614402699?text=Hallo+bang!)
-[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/bagasekaapr)
-[![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=blue&labelColor=white)](https://www.Twitter.com/bagasekaapr)<br><br>
+[![](https://img.shields.io/badge/WhatsApp-green?logo=Whatsapp&logoColor=brightgreen&labelColor=white)](https://wa.me/6289614402699?text=Hallo+bang!)
+[![](https://img.shields.io/badge/Instagram-yellow?logo=Instagram&logoColor=yellow&labelColor=white)](https://www.instagram.com/bagasekaapr)
+[![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=blue&labelColor=white)](https://www.Twitter.com/bagasekaapr)
+[![](https://img.shields.io/badge/YouTube-red?logo=YouTube&logoColor=red&labelColor=white)](https://www.youtube.com/c/anonim404)<br><br>
