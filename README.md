@@ -19,4 +19,4 @@
 [![](https://img.shields.io/badge/Instagram-yellow?logo=Instagram&logoColor=yellow&labelColor=white)](https://www.instagram.com/bagasekaapr)
 [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=blue&labelColor=white)](https://www.twitter.com/bagaseka_apr)
 [![](https://img.shields.io/badge/YouTube-red?logo=YouTube&logoColor=red&labelColor=white)](https://www.youtube.com/c/anonim404)
-<br><img alt="Python" title="Made with" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<br><title="Made with"Color=white><img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
