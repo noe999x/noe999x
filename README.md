@@ -14,13 +14,10 @@
 
 <p align="center">
 <a href="https://github.com/noe999x/followers"><img title="Followers" src="https://img.shields.io/github/followers/noe999x?color=red&style=flat-square"></a>
-<a href="https://github.com/noe999x/nslvd/"><img title="Size" src="https://img.shields.io/github/repo-size/noe999x/webdav?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnoe999x%2Fnslvd&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/noe999x/fbs/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
-<p align="center">
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/bagasekaapr)
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6289614402699?text=asalamualaikum+bang)
 [![](https://img.shields.io/badge/Instagram-Blue?logo=Instagram&logoColor=blue&labelColor=white)](https://www.instagram.com/bagasekaapr)<br><br>
-</p>
