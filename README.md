@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome </h1>
 <p align="center">
-<img src="https://i.pinimg.com/originals/1d/94/d8/1d94d82ea19ee7935032add271da0659.gif" alt="Chika-Md"/>
+<img src="https://i.pinimg.com/originals/bd/8a/7e/bd8a7e01f92ac545eb93be2c45f061f7.gif" alt="mommy"/>
 </p>
 
 <p align="center">
