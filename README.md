@@ -9,7 +9,6 @@
 
 <a href="https://github.com/noe999x"><img title="Author" src="https://img.shields.io/badge/Author-ikz-red.svg?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/noe999x"><img title="Recode" src="https://img.shields.io/badge/Recode-noe999x-red.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/noe999x"><img title="Made with" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></a>
 
 <a href="https://github.com/noe999x/followers"><img title="Followers" src="https://img.shields.io/github/followers/noe999x?color=red&style=flat-square"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnoe999x%2Fnslvd&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
@@ -20,4 +19,4 @@
 [![](https://img.shields.io/badge/Instagram-yellow?logo=Instagram&logoColor=yellow&labelColor=white)](https://www.instagram.com/bagasekaapr)
 [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=blue&labelColor=white)](https://www.twitter.com/bagaseka_apr)
 [![](https://img.shields.io/badge/YouTube-red?logo=YouTube&logoColor=red&labelColor=white)](https://www.youtube.com/c/anonim404)
-<br><img title="Made with" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<br><img title="piton" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
