@@ -19,4 +19,4 @@
 [![](https://img.shields.io/badge/Instagram-yellow?logo=Instagram&logoColor=yellow&labelColor=white)](https://www.instagram.com/bagasekaapr)
 [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=blue&labelColor=white)](https://www.twitter.com/bagaseka_apr)
 [![](https://img.shields.io/badge/YouTube-red?logo=YouTube&logoColor=red&labelColor=white)](https://www.youtube.com/c/anonim404)
-[![](https://img.shields.io/badge/Saweria-red?logo=Saweria&logoColor=blue&labelColor=white)](https://www.saweria.co/bagasekaapr)<br><br>
+<img alt="Python" src ="https://img.shields.io/badge/기술명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/></br>
