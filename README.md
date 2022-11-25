@@ -16,6 +16,6 @@
 
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/bagasekaapr)
 [![](https://img.shields.io/badge/WhatsApp-green?logo=Whatsapp&logoColor=brightgreen&labelColor=white)](https://wa.me/6289614402699?text=Hallo+bang!)
-[![](https://img.shields.io/badge/Instagram-yellow?logo=Instagram&logoColor=yellow&labelColor=white)](https://www.instagram.com/bagasekaapr)
+[![](https://img.shields.io/badge/Instagram-pink?logo=Instagram&logoColor=pink&labelColor=white)](https://www.instagram.com/bagasekaapr)
 [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=blue&labelColor=white)](https://www.Twitter.com/bagasekaapr)
 [![](https://img.shields.io/badge/YouTube-red?logo=YouTube&logoColor=red&labelColor=white)](https://www.youtube.com/c/anonim404)<br><br>
